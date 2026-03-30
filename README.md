@@ -6,7 +6,7 @@
 
 # Tasks Completed:
 
-* Task 1: infographic
+* Task_1: infographic
 * Task 2: Digital Portfolio
 * Task 3: Platforms exploration
 * Task 4: Email ETIquate
