@@ -4,7 +4,7 @@
 * Reg.no = 25MIM10221
 * Branch = Integrated M.tech(AI)
 
-# T%asks Completed:
+# Tasks Completed:
 
 * Task 1: infographic
 * Task 2: Digital Portfolio
